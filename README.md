@@ -30,7 +30,7 @@ La práctica genera los siguientes resultados:
 - Correo de seguimiento.
 - Agenda de coordinación interna.
 
---
+---
 
 ## 📬 **Contacto y más información**
 
