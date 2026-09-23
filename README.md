@@ -1,39 +1,30 @@
 # Trabaja de forma más inteligente con IA
 
-Haz más y desata tu creatividad con Microsoft Copilot. En este camino de aprendizaje, explorarás cómo usar Microsoft Copilot para ayudarte a investigar, encontrar información y generar contenido efectivo. El curso combina fundamentos teóricos de inteligencia artificial con una práctica intensiva y contextualizada en el entorno de Microsoft 365 Copilot, aplicada a un escenario real del sector financiero.
+Haz más y desata tu creatividad con Microsoft Copilot. En este curso explorarás cómo utilizar Microsoft 365 Copilot para investigar información, estructurar conversaciones, organizar datos y generar contenido mediante Copilot Chat, Word, PowerPoint, Excel, Outlook y Teams.
+
+La práctica se desarrolla en el contexto de **CIBEST CAPITAL**, preparando una primera conversación con el propietario de una empresa latinoamericana de logística interesado en comprender el mercado y el proceso antes de evaluar alternativas de inversión en Estados Unidos.
 
 ## Estructura
 
-- `CapituloXX/README.md`: guía de laboratorio por capítulo.
+### [Capítulo 1 — Guía práctica — Preparación de una propuesta inicial para un prospecto de CIBEST CAPITAL con Microsoft 365 Copilot](Capitulo01/README.md)
 
-## Lista de laboratorios
+Práctica guiada en la que se desarrolla un flujo completo de trabajo con Microsoft 365 Copilot. Se inicia comparando un prompt general con uno contextualizado y posteriormente se construyen preguntas de descubrimiento y se realiza una investigación web sobre el sector logístico. A partir de esta información se crea una ficha de preparación en Word, un material introductorio en PowerPoint y una matriz de necesidades en Excel. Finalmente, se preparan correos de bienvenida y seguimiento en Outlook y una agenda de coordinación interna en Teams.
 
-### Capítulo 1
+Durante todo el ejercicio se trabaja únicamente con la información disponible del prospecto, diferenciando claramente entre datos conocidos, información pendiente y contexto público. Los resultados generados por Copilot deben ser revisados antes de utilizarse y no deben incluir información inventada ni recomendaciones de inversión.
 
-- [Demo: Uso de Microsoft 365 Copilot Chat — generación y mejora de prompts para preparar una reunión con un prospecto ficticio de CIBEST CAPITAL](Capitulo01/README.md#demo-uso-de-microsoft-365-copilot-chat-generación-y-mejora-de-prompts-para-preparar-una-reunión-con-un-prospecto-ficticio-de-cibest-capital)
-  - Duración estimada: 0 min
-- [Práctica guiada en Microsoft 365 Copilot Chat: redacción de prompt inicial y prompt mejorado con contexto del prospecto, objetivo de la conversación y resultado esperado](Capitulo01/README.md#práctica-guiada-en-microsoft-365-copilot-chat-redacción-de-prompt-inicial-y-prompt-mejorado-con-contexto-del-prospecto-objetivo-de-la-conversación-y-resultado-esperado)
-  - Duración estimada: 15 min
-- [Práctica guiada en Microsoft 365 Copilot Chat: generación de preguntas de descubrimiento estructuradas por categorías (objetivos, horizonte, liquidez, experiencia, tolerancia al riesgo)](Capitulo01/README.md#práctica-guiada-en-microsoft-365-copilot-chat-generación-de-preguntas-de-descubrimiento-estructuradas-por-categorías-objetivos-horizonte-liquidez-experiencia-tolerancia-al-riesgo)
-  - Duración estimada: 15 min
-- [Práctica guiada en Microsoft 365 Copilot Chat con búsqueda web: investigación del sector logístico latinoamericano, revisión de fuentes y selección de contexto relevante](Capitulo01/README.md#práctica-guiada-en-microsoft-365-copilot-chat-con-búsqueda-web-investigación-del-sector-logístico-latinoamericano-revisión-de-fuentes-y-selección-de-contexto-relevante)
-  - Duración estimada: 15 min
-- [Práctica guiada en Word con Copilot: creación y estructuración de ficha de preparación para la reunión con el prospecto](Capitulo01/README.md#práctica-guiada-en-word-con-copilot-creación-y-estructuración-de-ficha-de-preparación-para-la-reunión-con-el-prospecto)
-  - Duración estimada: 20 min
-- [Práctica guiada en PowerPoint con Copilot: elaboración de material introductorio adaptado al prospecto con lenguaje accesible y sin tecnicismos](Capitulo01/README.md#práctica-guiada-en-powerpoint-con-copilot-elaboración-de-material-introductorio-adaptado-al-prospecto-con-lenguaje-accesible-y-sin-tecnicismos)
-  - Duración estimada: 20 min
-- [Práctica guiada en Excel con Copilot: construcción de matriz de necesidades del prospecto con clasificación de información conocida y pendiente](Capitulo01/README.md#práctica-guiada-en-excel-con-copilot-construcción-de-matriz-de-necesidades-del-prospecto-con-clasificación-de-información-conocida-y-pendiente)
-  - Duración estimada: 18 min
-- [Práctica guiada en Outlook con Copilot: redacción y ajuste de correo de bienvenida al prospecto](Capitulo01/README.md#práctica-guiada-en-outlook-con-copilot-redacción-y-ajuste-de-correo-de-bienvenida-al-prospecto)
-  - Duración estimada: 15 min
-- [Práctica guiada en Outlook con Copilot: redacción de correo de seguimiento post-reunión con síntesis y próximos pasos](Capitulo01/README.md#práctica-guiada-en-outlook-con-copilot-redacción-de-correo-de-seguimiento-post-reunión-con-síntesis-y-próximos-pasos)
-  - Duración estimada: 10 min
-- [Práctica guiada en Teams con Copilot: preparación de agenda de reunión interna de coordinación previa al siguiente contacto con el prospecto](Capitulo01/README.md#práctica-guiada-en-teams-con-copilot-preparación-de-agenda-de-reunión-interna-de-coordinación-previa-al-siguiente-contacto-con-el-prospecto)
-  - Descripción: Descripción breve de lo que se discutirá (2-3 líneas)
-  - Duración estimada: 10 min
+La práctica genera los siguientes resultados:
+
+- Ficha de preparación del prospecto.
+- Preguntas de descubrimiento.
+- Contexto público del sector con fuentes verificadas.
+- Presentación introductoria.
+- Matriz de información conocida y pendiente.
+- Correo de bienvenida.
+- Correo de seguimiento.
+- Agenda de coordinación interna.
 
 ## Flujo de colaboración
 
 - Trabajar en `changes_course`.
 - Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+- Realizar el merge mediante `Squash and merge`.
