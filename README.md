@@ -1,4 +1,11 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # Trabaja de forma más inteligente con IA
+
+
+## Plataforma de laboratorios
+
+Te damos la bienvenida a la **plataforma de laboratorios** del curso **Trabaja de forma más inteligente con IA**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
 
 Haz más y desata tu creatividad con Microsoft Copilot. En este curso explorarás cómo utilizar Microsoft 365 Copilot para investigar información, estructurar conversaciones, organizar datos y generar contenido mediante Copilot Chat, Word, PowerPoint, Excel, Outlook y Teams.
 
@@ -23,8 +30,13 @@ La práctica genera los siguientes resultados:
 - Correo de seguimiento.
 - Agenda de coordinación interna.
 
-## Flujo de colaboración
+--
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Realizar el merge mediante `Squash and merge`.
+## 📬 **Contacto y más información**
+
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
